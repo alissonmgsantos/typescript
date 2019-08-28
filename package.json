@@ -1,0 +1,23 @@
+{
+  "name": "typescript_estudo",
+  "version": "1.0.0",
+  "description": "Conteúdo desenvolvido durante o período de aprendizagem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alissonmgsantos/typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alissonmgsantos/typescript/issues"
+  },
+  "homepage": "https://github.com/alissonmgsantos/typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.6.2"
+  }
+}
